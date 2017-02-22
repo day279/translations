@@ -1,0 +1,7 @@
+translations\domain\Query.class
+translations\TranslationController$1.class
+translations\TranslationController.class
+translations\LostInTranslationApplication.class
+translations\domain\BadJsonException.class
+translations\domain\QueryType.class
+translations\domain\Translation.class

@@ -1,0 +1,21 @@
+html,
+body {
+	height:90%;
+}
+#wrapper {
+	min-height:90%;
+}
+#content {
+}
+#footer {
+	height:100px;
+	position:absolute;
+	bottom:0;
+}
+
+.results{
+	padding-top:1em;
+}
+.error {
+	color:red;
+}

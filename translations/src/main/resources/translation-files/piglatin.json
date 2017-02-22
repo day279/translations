@@ -1,0 +1,50 @@
+{
+  "title": "Ostlay inay Anslationtray",
+  "login": {
+    "user": "Useryay Amenay",
+    "pass": "Asswordpay"
+  },
+  "home": {
+    "greeting": {
+      "title": "Elcomeway otay ymay Ebpageway!",
+      "description": "Isthay agepay isyay availableyay inyay ayay arietyvay ofyay Anguageslay."
+    },
+    "footer": {
+      "createdBy": "Eatedcray ybay Obbay Arrishay"
+    }
+  },
+  "copyright": {
+    "message": "Allyay Ightsray Eservedray",
+    "year": "2016"
+  },
+  "menu": {
+    "topMenu": {
+      "home": "Omehay",
+      "index": "Indexyay"
+    },
+    "secondaryMenu": {
+      "left": {
+        "riddles": "Iddlesray",
+        "jokes": "Okesjay",
+        "puns": "Unspay"
+      },
+      "right": {
+        "quotes": "Amousfay Uotesqay",
+        "sayings": "Ayingssay",
+        "proverbs": "Overbspray"
+      }
+    },
+    "bottomMenu": {
+      "facebook": "Acebookfay",
+      "twitter": "Ittertway",
+      "instagram": "Instagramyay"
+    }
+  },
+  "quit": "Uitqay",
+  "help": "Elphay",
+  "about": "Isthay ebsiteway asway eatedcray entirelyyay outyay ofyay inthay airyay.",
+  "siteMap": {
+    "index": "Indexyay",
+    "directory": "Irectoryday"
+  }
+}
